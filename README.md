@@ -27,16 +27,5 @@ I’m a tech-driven professional living between the stars and the pitch. By day,
 
 ---
 
-## 📊 Featured Projects (Scouting & Web)
-
-| Project | Description | Tech Stack |
-| :--- | :--- | :--- |
-| **PitchVision** | Scouting dashboard to visualize heatmaps and player radar charts. | React, D3.js |
-| **SatTracker API** | Small utility to predict satellite passes over specific football stadiums. | Node.js, Python |
-| **ScoutDB** | Relational database for tracking young talent in regional leagues. | PostgreSQL, Next.js |
-
----
-
-
 ### ⚡ Fun Fact
 "Sometimes it's harder to find a left-back with a good cross than it is to stabilize a satellite's attitude during an eclipse."
