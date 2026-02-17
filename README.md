@@ -1,4 +1,4 @@
-# Hi there! I'm sefebenic 👋
+# Hi everyone! I'm sefebenic 👋
 
 ### 🛰️ Aerospace Engineer | Satellite Controller | Web Dev & Football Data Enthusiast
 
